@@ -2,7 +2,7 @@
 
 ### What is Agno
 
-Agno is a lightweight, high-performance library for building Agents.
+#### Agno is a lightweight, high-performance library for building Agents.
 
 It helps you progressively build the 5 levels of Agentic Systems:
 
