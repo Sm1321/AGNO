@@ -13,7 +13,8 @@ It helps you progressively build the 5 levels of Agentic Systems:
 - Level 5: Agentic Workflows with state and determinism.
 --------------------------------------------------------------------------------------------------
 ### Key features
-- Agno is simple, fast and model-agnostic. Here are some key features:
+- Agno is simple, fast and model-agnostic.
+- Here are some key features:
   - `Model Agnostic` 
   - `Lightning Fast` 
   - `Reasoning is a first class citizen`
