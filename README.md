@@ -14,16 +14,16 @@ It helps you progressively build the 5 levels of Agentic Systems:
 --------------------------------------------------------------------------------------------------
 ### Key features
 - Agno is simple, fast and model-agnostic. Here are some key features:
-`Model Agnostic` 
-`Lightning Fast` 
-`Reasoning is a first class citizen`
-`Natively Multi-Modal`
-`Advanced Multi-Agent Architecture`
-`Agentic Search built-in`
-`Long-term Memory & Session Storage`
-`Structured Outputs`
-`Pre-built FastAPI Routes`
-`Monitoring`
+  - `Model Agnostic` 
+  - `Lightning Fast` 
+  -`Reasoning is a first class citizen`
+  -`Natively Multi-Modal`
+  -`Advanced Multi-Agent Architecture`
+  -`Agentic Search built-in`
+  -`Long-term Memory & Session Storage`
+  -`Structured Outputs`
+  -`Pre-built FastAPI Routes`
+  -`Monitoring`
 ---------------------------------------------------------------------------------------------------
 - Added the Agno Files , which are about how to create agents and how to use tools and Multi-Agnets with Agno
 ----------------------------------------------------------------------------------------------------
